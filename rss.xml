@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Green Real Estate ]]></title>
+        <description><![CDATA[Green Real Estate ]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 27 Jun 2016 21:38:50 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/740e85f6-f047-4717-b5c5-6257c5aaa3d3.jpg">]]></description>
+            <link>undefineda-sustainable-future-for-generations-to-come/index.html</link>
+            <guid isPermaLink="false">74556e9c-3295-4cf0-96e3-8e5962fdb5c6</guid>
+            <pubDate>Mon, 27 Jun 2016 21:38:48 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

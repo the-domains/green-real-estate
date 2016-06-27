@@ -1,0 +1,28 @@
+name: 'Green Real Estate '
+favicon: null
+layout_spectrum: 0.06021451693959534
+typography_spectrum: 0.7611526511609554
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.3512212932109833
+  lightness: 0.5536127977538854
+  saturation: 0.5790152847766876
+  rhythmicContrast: 0.702783499378711
+purpose: []
